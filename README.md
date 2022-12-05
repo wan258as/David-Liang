@@ -19,7 +19,7 @@
  </div>
 
 <h1 align="center">
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -37,4 +37,4 @@ I am a Data Science Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :spades: In my free time, I enjoy playing Poker.
 
-- :mailbox:Liangd30@gmail.com
+- :mailbox: Reach out to me at Liangd30@gmail.com
