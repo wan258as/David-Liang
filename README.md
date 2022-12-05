@@ -29,4 +29,12 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
+I am a Data Science Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :toolbox: I love building & fine-tunning various machine learning algorithms.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :spades: In my free time, I enjoy playing Poker.
+
+- :mailbox:Liangd30@gmail.com
